@@ -18,5 +18,3 @@ Based on the data inspection and analysis pipelines executed within the notebook
 
 ## Future Modeling Roadmap
 The logical next steps outlined for this dataset include data preprocessing (one-hot encoding categorical features, re-mapping `pdays=999`), mitigating class imbalance, and training classification models such as **Logistic Regression, Random Forests, and XGBoost**.
-
-> 📌 **Note on Dataset:** The dataset file `bankmarketing.csv` is excluded from this public directory to keep repository performance optimized. The full analytical exploration, data cleaning steps, and visualization configurations are entirely readable inside the attached Jupyter Notebook.
